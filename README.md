@@ -1,2 +1,1 @@
-# learn_code
-General coding projects
+Place for general coding projects
